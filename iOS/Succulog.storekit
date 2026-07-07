@@ -1,0 +1,42 @@
+{
+  "identifier": "succulog",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [
+    {
+      "id": "21500000",
+      "localizations": [],
+      "name": "Succulog Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "succulog_pro_monthly",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Unlocks unlimited succulents and seasonal interval adjustments.",
+              "displayName": "Succulog Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "succulog_pro_monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Succulog Pro Monthly",
+          "subscriptionGroupID": "21500000",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
